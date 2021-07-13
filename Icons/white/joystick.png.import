@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/joystick.png-e0b71c55101c1440fde7f91f273bf18d.image"
+
+[deps]
+
+source_file="res://Icons/white/joystick.png"
+dest_files=[ "res://.import/joystick.png-e0b71c55101c1440fde7f91f273bf18d.image" ]
+
+[params]
+

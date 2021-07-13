@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/wrench.png-bca103e16b30884a2381b2c7a01c8049.image"
+
+[deps]
+
+source_file="res://Icons/white/wrench.png"
+dest_files=[ "res://.import/wrench.png-bca103e16b30884a2381b2c7a01c8049.image" ]
+
+[params]
+

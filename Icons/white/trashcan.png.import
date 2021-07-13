@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/trashcan.png-9ae0e2cae625b1243385d469f8b0d9ec.image"
+
+[deps]
+
+source_file="res://Icons/white/trashcan.png"
+dest_files=[ "res://.import/trashcan.png-9ae0e2cae625b1243385d469f8b0d9ec.image" ]
+
+[params]
+

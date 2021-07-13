@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/stop.png-fa268db020e77b0fc27e46585d1ab24e.image"
+
+[deps]
+
+source_file="res://Icons/white/stop.png"
+dest_files=[ "res://.import/stop.png-fa268db020e77b0fc27e46585d1ab24e.image" ]
+
+[params]
+

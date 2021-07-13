@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/scrollHorizontal.png-ee8cf22bb8dd25e8386d9b8d8aed57ce.image"
+
+[deps]
+
+source_file="res://Icons/white/scrollHorizontal.png"
+dest_files=[ "res://.import/scrollHorizontal.png-ee8cf22bb8dd25e8386d9b8d8aed57ce.image" ]
+
+[params]
+

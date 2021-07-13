@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/arrowRight.png-ee36d9572198bfae3cd4bb73ee48ca2e.image"
+
+[deps]
+
+source_file="res://Icons/white/arrowRight.png"
+dest_files=[ "res://.import/arrowRight.png-ee36d9572198bfae3cd4bb73ee48ca2e.image" ]
+
+[params]
+

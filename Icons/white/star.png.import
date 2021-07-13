@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/star.png-b6c6bb47f95188cf3d5e3953259dcd50.image"
+
+[deps]
+
+source_file="res://Icons/white/star.png"
+dest_files=[ "res://.import/star.png-b6c6bb47f95188cf3d5e3953259dcd50.image" ]
+
+[params]
+

@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/pause.png-d3ae1e4c1fb134e1db5b09d9593c122e.image"
+
+[deps]
+
+source_file="res://Icons/white/pause.png"
+dest_files=[ "res://.import/pause.png-d3ae1e4c1fb134e1db5b09d9593c122e.image" ]
+
+[params]
+

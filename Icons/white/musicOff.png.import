@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/musicOff.png-299b0cae0bdf8c92df7c75a742cec8e5.image"
+
+[deps]
+
+source_file="res://Icons/white/musicOff.png"
+dest_files=[ "res://.import/musicOff.png-299b0cae0bdf8c92df7c75a742cec8e5.image" ]
+
+[params]
+

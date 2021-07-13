@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/buttonSelect.png-16a363e6ec65963581e142279c6dd509.image"
+
+[deps]
+
+source_file="res://Icons/white/buttonSelect.png"
+dest_files=[ "res://.import/buttonSelect.png-16a363e6ec65963581e142279c6dd509.image" ]
+
+[params]
+

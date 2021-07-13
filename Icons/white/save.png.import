@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/save.png-7ef1e3111b99f4322a4ec795fe8c850a.image"
+
+[deps]
+
+source_file="res://Icons/white/save.png"
+dest_files=[ "res://.import/save.png-7ef1e3111b99f4322a4ec795fe8c850a.image" ]
+
+[params]
+

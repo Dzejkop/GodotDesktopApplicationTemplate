@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/scrollVertical.png-16c9abcc20940b32979e62b8474b77a0.image"
+
+[deps]
+
+source_file="res://Icons/white/scrollVertical.png"
+dest_files=[ "res://.import/scrollVertical.png-16c9abcc20940b32979e62b8474b77a0.image" ]
+
+[params]
+

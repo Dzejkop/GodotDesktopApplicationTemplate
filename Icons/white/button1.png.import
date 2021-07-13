@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/button1.png-ae7fb8c05c23ca214ae1045c1ae1d33e.image"
+
+[deps]
+
+source_file="res://Icons/white/button1.png"
+dest_files=[ "res://.import/button1.png-ae7fb8c05c23ca214ae1045c1ae1d33e.image" ]
+
+[params]
+

@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/power.png-e66b3ec760123e07978886041f66a068.image"
+
+[deps]
+
+source_file="res://Icons/white/power.png"
+dest_files=[ "res://.import/power.png-e66b3ec760123e07978886041f66a068.image" ]
+
+[params]
+

@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/singleplayer.png-8ce4e93c58aa2d85f2b3153d8c2a53e3.image"
+
+[deps]
+
+source_file="res://Icons/white/singleplayer.png"
+dest_files=[ "res://.import/singleplayer.png-8ce4e93c58aa2d85f2b3153d8c2a53e3.image" ]
+
+[params]
+

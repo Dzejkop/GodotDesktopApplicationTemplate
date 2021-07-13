@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/home.png-738bb9e04fe75e6d630df86e9f0a3543.image"
+
+[deps]
+
+source_file="res://Icons/white/home.png"
+dest_files=[ "res://.import/home.png-738bb9e04fe75e6d630df86e9f0a3543.image" ]
+
+[params]
+

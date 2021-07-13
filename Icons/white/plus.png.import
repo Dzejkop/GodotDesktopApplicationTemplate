@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/plus.png-dede0141eab246f5b3c176579b618a9f.image"
+
+[deps]
+
+source_file="res://Icons/white/plus.png"
+dest_files=[ "res://.import/plus.png-dede0141eab246f5b3c176579b618a9f.image" ]
+
+[params]
+

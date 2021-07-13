@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/locked.png-4a835856a5e5d9a30e2a8f049696cd13.image"
+
+[deps]
+
+source_file="res://Icons/white/locked.png"
+dest_files=[ "res://.import/locked.png-4a835856a5e5d9a30e2a8f049696cd13.image" ]
+
+[params]
+

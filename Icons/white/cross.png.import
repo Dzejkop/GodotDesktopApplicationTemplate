@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/cross.png-6b73624a2b96dc240066e8d3ca3cfea4.image"
+
+[deps]
+
+source_file="res://Icons/white/cross.png"
+dest_files=[ "res://.import/cross.png-6b73624a2b96dc240066e8d3ca3cfea4.image" ]
+
+[params]
+

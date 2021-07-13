@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/trophy.png-188fe29795aa96ac305f22abf9d99e6d.image"
+
+[deps]
+
+source_file="res://Icons/white/trophy.png"
+dest_files=[ "res://.import/trophy.png-188fe29795aa96ac305f22abf9d99e6d.image" ]
+
+[params]
+

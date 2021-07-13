@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/gamepad3.png-bf362161dc01f698b669f796eefe863f.image"
+
+[deps]
+
+source_file="res://Icons/white/gamepad3.png"
+dest_files=[ "res://.import/gamepad3.png-bf362161dc01f698b669f796eefe863f.image" ]
+
+[params]
+

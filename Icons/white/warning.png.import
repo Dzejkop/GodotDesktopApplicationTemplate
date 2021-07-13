@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/warning.png-572ea8ef51d0edaafa2a5baf9a6dba77.image"
+
+[deps]
+
+source_file="res://Icons/white/warning.png"
+dest_files=[ "res://.import/warning.png-572ea8ef51d0edaafa2a5baf9a6dba77.image" ]
+
+[params]
+

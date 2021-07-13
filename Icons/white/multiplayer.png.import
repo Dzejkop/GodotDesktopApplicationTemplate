@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/multiplayer.png-d700f227637a4da6529c62037c2fa482.image"
+
+[deps]
+
+source_file="res://Icons/white/multiplayer.png"
+dest_files=[ "res://.import/multiplayer.png-d700f227637a4da6529c62037c2fa482.image" ]
+
+[params]
+

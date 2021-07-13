@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/exitLeft.png-496ce15c1bb6e428a8162a74ba77050f.image"
+
+[deps]
+
+source_file="res://Icons/white/exitLeft.png"
+dest_files=[ "res://.import/exitLeft.png-496ce15c1bb6e428a8162a74ba77050f.image" ]
+
+[params]
+
